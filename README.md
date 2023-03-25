@@ -12,6 +12,7 @@
 
 
 # Setup
+Requires Unity
  * Run "Main Menu" scene in Unity
 
   OR
