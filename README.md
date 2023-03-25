@@ -8,4 +8,10 @@
  Gameplay:
 
 # Setup
- 1. Run "Main Menu" scene in Unity
+ * Run "Main Menu" scene in Unity
+
+  OR
+  
+ * Build project and run executable
+ 
+
