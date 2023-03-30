@@ -3,6 +3,8 @@
  
  A small game created for CMPT 306. A single player roguelike bullet hell game. The player controls a cowboy in a randomly generated maze and must collect bounties by defeating enemies. Collecting all bounties summons a boss. Upon defeating the boss the player can progress to another stage. The player can collect powerups that provide various gameplay bonuses.
  
+ Main Responsibilities: Project Lead, Lead Artist, Programmer
+ 
  Main Menu:
  ![SnakeskinMainMenu](https://user-images.githubusercontent.com/73213301/227702750-3f6c4193-4689-46b5-ba86-3c4629c00e39.PNG)
 
